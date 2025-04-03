@@ -6,14 +6,11 @@
 </div>
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://svgl-badge.vercel.app/api/Language/C?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
 </div>
 <div align="center">
